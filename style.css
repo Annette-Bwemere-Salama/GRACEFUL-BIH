@@ -17,3 +17,13 @@ ul, li{
     justify-content: center;
     margin-top: 10px;
 }
+
+#pinterest{
+    background-color: red;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;   
+    font-weight: bold;
+    font-size: 14px;
+}
